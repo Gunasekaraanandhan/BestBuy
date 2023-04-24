@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-24T17:38:42 IST" name="Suite" finished-at="2023-04-24T17:57:05 IST" duration-ms="1103231">
+    <groups>
+    </groups>
+    <test started-at="2023-04-24T17:38:42 IST" name="Test" finished-at="2023-04-24T17:57:05 IST" duration-ms="1103231">
+      <class name="com.bestbuy.tests.PaymentAndValidationTest">
+        <test-method signature="dummyPayments()[pri:8, instance:com.bestbuy.tests.PaymentAndValidationTest@60099951]" started-at="2023-04-24T17:52:00 IST" name="dummyPayments" finished-at="2023-04-24T17:57:05 IST" duration-ms="304675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummyPayments -->
+      </class> <!-- com.bestbuy.tests.PaymentAndValidationTest -->
+      <class name="com.bestbuy.tests.SearchAddTest">
+        <test-method signature="searchAddPendrive()[pri:5, instance:com.bestbuy.tests.SearchAddTest@13e344d]" started-at="2023-04-24T17:45:09 IST" name="searchAddPendrive" finished-at="2023-04-24T17:46:57 IST" duration-ms="107684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAddPendrive -->
+      </class> <!-- com.bestbuy.tests.SearchAddTest -->
+      <class name="com.bestbuy.tests.LaunchBrowserAndBrokenLinkTest">
+        <test-method signature="findBrokenlinkOrNot()[pri:0, instance:com.bestbuy.tests.LaunchBrowserAndBrokenLinkTest@e350b40]" started-at="2023-04-24T17:38:42 IST" name="findBrokenlinkOrNot" finished-at="2023-04-24T17:38:58 IST" duration-ms="15918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findBrokenlinkOrNot -->
+      </class> <!-- com.bestbuy.tests.LaunchBrowserAndBrokenLinkTest -->
+      <class name="com.bestbuy.tests.BottomLinkTest">
+        <test-method signature="scrollBottomLink()[pri:4, instance:com.bestbuy.tests.BottomLinkTest@45099dd3]" started-at="2023-04-24T17:43:05 IST" name="scrollBottomLink" finished-at="2023-04-24T17:45:09 IST" duration-ms="124126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollBottomLink -->
+      </class> <!-- com.bestbuy.tests.BottomLinkTest -->
+      <class name="com.bestbuy.tests.DepartmentAddCartTest">
+        <test-method signature="departmentAddItem()[pri:6, instance:com.bestbuy.tests.DepartmentAddCartTest@1ffaf86]" started-at="2023-04-24T17:46:57 IST" name="departmentAddItem" finished-at="2023-04-24T17:48:59 IST" duration-ms="122723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- departmentAddItem -->
+      </class> <!-- com.bestbuy.tests.DepartmentAddCartTest -->
+      <class name="com.bestbuy.tests.SignupTest">
+        <test-method signature="signupBestBuy()[pri:1, instance:com.bestbuy.tests.SignupTest@41a0aa7d]" started-at="2023-04-24T17:38:58 IST" name="signupBestBuy" finished-at="2023-04-24T17:39:53 IST" duration-ms="54891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupBestBuy -->
+      </class> <!-- com.bestbuy.tests.SignupTest -->
+      <class name="com.bestbuy.utils.Reports">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.bestbuy.utils.Reports@6fdbe764]" started-at="2023-04-24T17:38:41 IST" name="startReport" finished-at="2023-04-24T17:38:42 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.bestbuy.utils.Reports@6fdbe764]" started-at="2023-04-24T17:57:05 IST" name="endReport" finished-at="2023-04-24T17:57:07 IST" duration-ms="2150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.bestbuy.utils.Reports -->
+      <class name="com.bestbuy.tests.LoginTest">
+        <test-method signature="siginBestBuy()[pri:2, instance:com.bestbuy.tests.LoginTest@2794eab6]" started-at="2023-04-24T17:39:53 IST" name="siginBestBuy" finished-at="2023-04-24T17:40:38 IST" duration-ms="45308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- siginBestBuy -->
+      </class> <!-- com.bestbuy.tests.LoginTest -->
+      <class name="com.bestbuy.tests.BrandAddCartTest">
+        <test-method signature="brandAddToCart()[pri:7, instance:com.bestbuy.tests.BrandAddCartTest@1c7696c6]" started-at="2023-04-24T17:48:59 IST" name="brandAddToCart" finished-at="2023-04-24T17:52:00 IST" duration-ms="180922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brandAddToCart -->
+      </class> <!-- com.bestbuy.tests.BrandAddCartTest -->
+      <class name="com.bestbuy.tests.AllmenuTest">
+        <test-method signature="validateTitle()[pri:3, instance:com.bestbuy.tests.AllmenuTest@6340e5f0]" started-at="2023-04-24T17:40:38 IST" name="validateTitle" finished-at="2023-04-24T17:43:05 IST" duration-ms="146908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+      </class> <!-- com.bestbuy.tests.AllmenuTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
